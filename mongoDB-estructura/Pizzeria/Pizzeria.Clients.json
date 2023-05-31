@@ -9,14 +9,4 @@
   "localitat": "Barcelona",
   "provincia": "Barcelona",
   "telefon": 930000000
-},
-{
-  "_id": {
-    "$oid": "647700a7b262a0b3768beef1"
-  },
-  "nom": "Nom",
-  "cognoms": "Cognoms",
-  "NIF": "NIF",
-  "telefon": 930000000,
-  "tasca": "repartidor"
 }]

@@ -1,0 +1,13 @@
+[{
+  "_id_empleat": {
+    "$oid": "6477140bb262a0b3768beef4"
+  },
+  "nom": "Nom",
+  "cognoms": "Cognoms",
+  "NIF": "NIF",
+  "telefon": 930000000,
+  "tasca": "repartidor",
+  "_id_botiga": {
+    "$oid": "647705cab262a0b3768beef3"
+  }
+}]

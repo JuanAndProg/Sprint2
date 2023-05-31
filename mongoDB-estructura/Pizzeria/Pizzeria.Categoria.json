@@ -1,0 +1,9 @@
+[{
+  "_id_categoria": {
+    "$oid": "64771797b262a0b3768beef6"
+  },
+  "_id_pizza": {
+    "$oid": "64771748b262a0b3768beef5"
+  },
+  "categoria": 1
+}]
