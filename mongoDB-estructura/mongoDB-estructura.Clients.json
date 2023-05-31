@@ -1,0 +1,23 @@
+[{
+  "_id_client": {
+    "$oid": "6475d180bc98bcc748e2f842"
+  },
+  "nom": "Nom del client",
+  "direccio": [
+    "Carrer - string",
+    "Numero - string",
+    "Pis - string",
+    "Porta - string",
+    "Ciutat - string",
+    "CodiPostal - string",
+    "Pais - string"
+  ],
+  "telefon": 930000000,
+  "email": "email del client",
+  "data_registre": {
+    "$date": "2023-05-30T10:35:44.365Z"
+  },
+  "_id_client_recomenat": {
+    "$oid": "6475d180bc98bcc748e2f842"
+  }
+}]

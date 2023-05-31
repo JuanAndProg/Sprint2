@@ -1,0 +1,15 @@
+[{
+  "_id_venda": {
+    "$oid": "6475d0cfbc98bcc748e2f840"
+  },
+  "empleat": "Nom de l'empleat",
+  "data_venda": {
+    "$date": "2023-05-30T10:32:47.414Z"
+  },
+  "_id_client": {
+    "$oid": "6475d180bc98bcc748e2f842"
+  },
+  "_id_ulleres": {
+    "$oid": "6475cf8dbc98bcc748e2f83f"
+  }
+}]
