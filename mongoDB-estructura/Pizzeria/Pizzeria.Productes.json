@@ -1,0 +1,12 @@
+[{
+  "_id_producte": {
+    "$oid": "6476ff47b262a0b3768beeef"
+  },
+  "nomb": "Nom del producte",
+  "descripcio": "Descripcio del producte",
+  "preu": "9.99",
+  "tipus_de_producte": "Pizza",
+  "categoria": 1,
+  "imatge": "https://pizza1.jpg;"
+  
+}]

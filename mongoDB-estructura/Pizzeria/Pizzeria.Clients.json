@@ -1,0 +1,22 @@
+[{
+  "_id_client": {
+    "$oid": "6476ff6fb262a0b3768beef0"
+  },
+  "nom": "Nom",
+  "cognoms": "Cognoms",
+  "adreca": "adreca",
+  "codi_Postal": "08000",
+  "localitat": "Barcelona",
+  "provincia": "Barcelona",
+  "telefon": 930000000
+},
+{
+  "_id": {
+    "$oid": "647700a7b262a0b3768beef1"
+  },
+  "nom": "Nom",
+  "cognoms": "Cognoms",
+  "NIF": "NIF",
+  "telefon": 930000000,
+  "tasca": "repartidor"
+}]

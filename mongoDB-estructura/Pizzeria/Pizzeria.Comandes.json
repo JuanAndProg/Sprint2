@@ -1,0 +1,22 @@
+[{
+  "_id_comanda": {
+    "$oid": "64770502b262a0b3768beef2"
+  },
+  "_id_botiga": {
+    "$oid": "647705cab262a0b3768beef3"
+  },
+  "_id_client": {
+    "$oid": "6476ff6fb262a0b3768beef0"
+  },
+  "lliurament": "botiga",
+  "data_lliurament": {
+    "$date": "2023-05-31T08:27:46.628Z"
+  },
+  "productes" : [
+  {"_id_producte": {
+    "$oid": "6476ff47b262a0b3768beeef"
+  },
+  "quantitat" : 2
+}
+]
+}]

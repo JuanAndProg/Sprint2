@@ -1,0 +1,9 @@
+[{
+  "_id_botiga": {
+    "$oid": "647705cab262a0b3768beef3"
+  },
+  "adreca": "adreca",
+  "codi_Postal": "08000",
+  "localitat": "Barcelona",
+  "provincia": "Barcelona"
+}]
